@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello Cgn-java-24-1");
         System.out.println("Hello Everybody");
         System.out.println("Hello you");
+        System.out.println("Hello there!");
     }
 }
